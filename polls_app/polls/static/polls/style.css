@@ -1,0 +1,9 @@
+ul li a {
+    color: green;
+}
+
+body {
+    background: black url("images/background.jpg") no-repeat;
+    background-size: 50rem 100rem;
+    background-position: 10rem 10rem;
+}
